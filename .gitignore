@@ -1,0 +1,27 @@
+# LaTeX 编译中间产物
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.blg
+*.bcf
+*.run.xml
+*.xdv
+*.nav
+*.snm
+*.vrb
+
+# 注意：.tex / .bib / .bbl / .pdf 均为提交内容，请勿加入此列表。
+# .bbl 之所以入库，是为了让使用者无需运行 bibtex 即可直接编译。
+
+# 编辑器与系统
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

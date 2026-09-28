@@ -1,0 +1,85 @@
+\begin{thebibliography}{10}
+
+\bibitem{ref1}
+Sida Peng, Eirini Kalliamvakou, Peter Cihon, and Mert Demirer.
+\newblock {The Impact of AI on Developer Productivity: Evidence from GitHub
+  Copilot}, 2023.
+\newblock [EB/OL]. arXiv:2302.06590.
+
+\bibitem{ref2}
+{GitClear}.
+\newblock {Coding on Copilot: 2023 Data Suggests Downward Pressure on Code
+  Quality}.
+\newblock 报告, GitClear, Seattle, 2024.
+\newblock [R].
+
+\bibitem{ref14}
+Peter Naur and Brian Randell.
+\newblock {Software Engineering: Report on a Conference Sponsored by the NATO
+  Science Committee}.
+\newblock 会议报告, NATO, Brussels, 1968.
+
+\bibitem{ref3}
+Martin Fowler.
+\newblock {PresentationDomainDataLayer}.
+\newblock
+  \url{https://martinfowler.com/bliki/PresentationDomainDataLayer.html}, 2014.
+\newblock [EB/OL]. [2026-09-15].
+
+\bibitem{ref4}
+David~Lorge Parnas.
+\newblock {On the Criteria To Be Used in Decomposing Systems into Modules}.
+\newblock {\em Communications of the ACM}, 15(12):1053--1058, 1972.
+
+\bibitem{ref5}
+Melvin~E. Conway.
+\newblock {How Do Committees Invent?}
+\newblock {\em Datamation}, 14(4):28--31, 1968.
+
+\bibitem{ref6}
+John Ousterhout.
+\newblock {\em {A Philosophy of Software Design}}.
+\newblock Yaknyam Press, Palo Alto, 2018.
+
+\bibitem{ref7}
+Jimmy Bogard.
+\newblock {Vertical Slice Architecture}.
+\newblock \url{https://jimmybogard.com/vertical-slice-architecture/}, 2017.
+\newblock [EB/OL]. [2026-09-15].
+
+\bibitem{ref8}
+Martin Fowler.
+\newblock {BlueGreenDeployment}.
+\newblock \url{https://martinfowler.com/bliki/BlueGreenDeployment.html}, 2010.
+\newblock [EB/OL]. [2026-09-15].
+
+\bibitem{ref9}
+Martin Fowler.
+\newblock {PhoenixServer}.
+\newblock \url{https://martinfowler.com/bliki/PhoenixServer.html}, 2011.
+\newblock [EB/OL].
+
+\bibitem{ref10}
+Mark Chen, Jerry Tworek, Heewoo Jun, et~al.
+\newblock {Evaluating Large Language Models Trained on Code}, 2021.
+\newblock [EB/OL]. arXiv:2107.03374.
+
+\bibitem{ref11}
+Angela Fan, Binyamin Gokkaya, Mark Harman, et~al.
+\newblock {Large Language Models for Software Engineering: Survey and Open
+  Problems}.
+\newblock {\em ACM Transactions on Software Engineering and Methodology},
+  33(8):1--79, 2023.
+
+\bibitem{ref12}
+Martin Kleppmann.
+\newblock {\em {Designing Data-Intensive Applications: The Big Ideas Behind
+  Reliable, Scalable, and Maintainable Systems}}.
+\newblock O'Reilly Media, Sebastopol, 2017.
+
+\bibitem{ref13}
+Zhamak Dehghani.
+\newblock {\em {Data Mesh: Delivering Data-Driven Value at Scale}}.
+\newblock O'Reilly Media, Sebastopol, 2022.
+
+\end{thebibliography}

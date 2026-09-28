@@ -1,0 +1,10 @@
+* text=auto eol=lf
+
+# LaTeX 源码与参考文献：强制 LF，避免跨平台编译时出现 ^M
+*.tex text eol=lf
+*.bib text eol=lf
+*.bbl text eol=lf
+*.md  text eol=lf
+
+# 二进制产物不参与行尾转换
+*.pdf binary

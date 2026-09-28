@@ -1,0 +1,119 @@
+\begin{thebibliography}{10}
+
+\bibitem{ref1}
+Sida Peng, Eirini Kalliamvakou, Peter Cihon, and Mert Demirer.
+\newblock {The Impact of AI on Developer Productivity: Evidence from GitHub
+  Copilot}, 2023.
+\newblock [EB/OL]. arXiv:2302.06590.
+
+\bibitem{ref14}
+Mark Chen, Jerry Tworek, Heewoo Jun, et~al.
+\newblock {Evaluating Large Language Models Trained on Code}, 2021.
+\newblock [EB/OL]. arXiv:2107.03374.
+
+\bibitem{ref15}
+Angela Fan, Binyamin Gokkaya, Mark Harman, et~al.
+\newblock {Large Language Models for Software Engineering: Survey and Open
+  Problems}.
+\newblock {\em ACM Transactions on Software Engineering and Methodology},
+  33(8):1--79, 2023.
+
+\bibitem{ref2}
+{GitClear}.
+\newblock {Coding on Copilot: 2023 Data Suggests Downward Pressure on Code
+  Quality}.
+\newblock 报告, GitClear, Seattle, 2024.
+\newblock [R].
+
+\bibitem{ref3}
+E.~F. Codd.
+\newblock {A Relational Model of Data for Large Shared Data Banks}.
+\newblock {\em Communications of the ACM}, 13(6):377--387, 1970.
+
+\bibitem{ref4}
+Donald~D. Chamberlin and Raymond~F. Boyce.
+\newblock {SEQUEL: A Structured English Query Language}.
+\newblock In {\em Proceedings of the 1974 ACM SIGFIDET Workshop on Data
+  Description, Access and Control}, pages 249--264, 1974.
+
+\bibitem{ref10}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, et~al.
+\newblock {Attention Is All You Need}.
+\newblock In {\em Advances in Neural Information Processing Systems 30
+  (NeurIPS)}, 2017.
+
+\bibitem{ref11}
+Nelson~F. Liu, Kevin Lin, John Hewitt, et~al.
+\newblock {Lost in the Middle: How Language Models Use Long Contexts}.
+\newblock {\em Transactions of the Association for Computational Linguistics},
+  12:157--173, 2024.
+
+\bibitem{ref20}
+Zikun Yang.
+\newblock {Feature-per-File: Refactoring Code Organization for AI Programming
+  --- A Data-Engineering Perspective}, 2026.
+\newblock Preprint.
+
+\bibitem{ref5}
+David~Lorge Parnas.
+\newblock {On the Criteria To Be Used in Decomposing Systems into Modules}.
+\newblock {\em Communications of the ACM}, 15(12):1053--1058, 1972.
+
+\bibitem{ref17}
+{ISO/IEC/IEEE}.
+\newblock {ISO/IEC/IEEE 29148:2018, Systems and software engineering --- Life
+  cycle processes --- Requirements engineering}, 2018.
+\newblock [S].
+
+\bibitem{ref18}
+{GitHub}.
+\newblock {Spec Kit: Toolkit to Use Spec-Driven Development}.
+\newblock \url{https://github.com/github/spec-kit}, 2025.
+\newblock [EB/OL]. [2026-09-17].
+
+\bibitem{ref19}
+{AWS}.
+\newblock {Kiro: The AI-Powered IDE}.
+\newblock \url{https://kiro.dev}, 2025.
+\newblock [EB/OL]. [2026-09-17].
+
+\bibitem{ref16}
+Tao Yu, Rui Zhang, Kai Yang, et~al.
+\newblock {Spider: A Large-Scale Human-Labeled Dataset for Complex and
+  Cross-Domain Semantic Parsing and Text-to-SQL Task}.
+\newblock In {\em Proceedings of the 2018 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, 2018.
+
+\bibitem{ref12}
+Pengfei Liu, Weizhe Yuan, Jinlan Fu, et~al.
+\newblock {Pre-train, Prompt, and Predict: A Systematic Survey of Prompting
+  Methods in Natural Language Processing}.
+\newblock {\em ACM Computing Surveys}, 55(9):1--35, 2023.
+
+\bibitem{ref6}
+Winston~W. Royce.
+\newblock {Managing the Development of Large Software Systems}.
+\newblock In {\em Proceedings of IEEE WESCON}, pages 1--9, 1970.
+
+\bibitem{ref7}
+Barry~W. Boehm.
+\newblock {\em {Software Engineering Economics}}.
+\newblock Prentice-Hall, Englewood Cliffs, 1981.
+
+\bibitem{ref8}
+Peter Naur.
+\newblock {Programming as Theory Building}.
+\newblock {\em Microprocessing and Microprogramming}, 15(5):253--261, 1985.
+
+\bibitem{ref13}
+Shunyu Yao, Jeffrey Zhao, Dian Yu, et~al.
+\newblock {ReAct: Synergizing Reasoning and Acting in Language Models}.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2023.
+
+\bibitem{ref9}
+John Ousterhout.
+\newblock {\em {A Philosophy of Software Design}}.
+\newblock Yaknyam Press, Palo Alto, 2018.
+
+\end{thebibliography}
